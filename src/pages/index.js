@@ -140,17 +140,7 @@ export default function Home() {
       <div className={styles.container}>
         <section className={styles.main}>
           <h1>CRUD With Next.Js & MySQL Demo</h1>
-          {/* <p>
-            Create, Read, Update, Delete database data in React, Node, Next.js
-            and MySQL by Omar Elbaga{" "}
-            <a
-              href="https://github.com/oelbaga/nextjs-mysql"
-              target="_blank"
-              rel="noreferrer"
-            >
-              GitHub
-            </a>
-          </p> */}
+      
           <div className={styles.heading}>
             <a href="/api/products" target="_blank" rel="noreferrer">
               Database API data
@@ -243,9 +233,9 @@ export default function Home() {
         <footer>
           <p>
             Create, Read, Update, Delete database data in React, Node and
-            Next.JS by Omar Elbaga{" "}
+            Next.JS by Kiwi{" "}
             <a
-              href="https://github.com/oelbaga/nextjs-mysql"
+              href="https://github.com/kiwizu3"
               target="_blank"
               rel="noreferrer"
             >
